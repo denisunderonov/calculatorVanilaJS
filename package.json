@@ -1,0 +1,13 @@
+{
+  "name": "calculatevanilajs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "parcel serve ./index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
